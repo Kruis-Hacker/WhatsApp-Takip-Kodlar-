@@ -1,0 +1,8 @@
+echo "# WhatsApp-Takip-Kodlar-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/LuisCYD-Hacker/WhatsApp-Takip-Kodlar-.git
+git push -u origin main
+Created by LuisCYD
